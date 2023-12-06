@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "strict":true,
+        "lib":["ESNext"],
+        "esModuleInterop": true,
+        "moduleResolution": "Node",
+        "baseUrl": "."
+    },
+    "include": ["/**/*.ts"],
+    "exclude": ["node_modules", ".vscode"],
+}
